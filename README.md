@@ -12,4 +12,4 @@ How to Use:
 8. ヽ(´▽`)/
 
 note:
-penggunaan masih terbatas pada equation sederhana, untuk unicode sudah ada variabel awal, misal l^2=rumus, l^2 di cell a20 dan rumus di cell b20, maka cell a20 akan ikut ke equation
+penggunaan masih terbatas pada equation sederhana, untuk unicode sudah ada variabel awal, misal l^2=rumus, l^2 di cell a20 dan rumus di cell b20, maka cell a20 akan ikut ke equation, coba aja sendiri males njelasinnya
