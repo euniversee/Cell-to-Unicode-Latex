@@ -2,7 +2,7 @@
 Mengubah dari cell di excel menjadi rumus latex / unicode, dari rumus tersebut bisa langsung diubah menjadi equation di word (biar gampang ngelapraknya ga ngetik equation satu-satu)
 
 How to Use:
-1. Buka Excel, tekan Alt + F11 (gunakan Fn jika tidak bisa membuka VBA)
+1. Buka Excel, tekan Alt + F11 (gunakan Fn jika tidak bisa)
 2. Tab File, import File
 3. Kembali ke excel, gunakan =FormulaToUnicode(cell yang dituju) atau =FormulaToLatex(cell)
 4. Akan tergenerate rumus latex/unicode
